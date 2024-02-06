@@ -6,15 +6,15 @@ The proposed language aims to serve as a bridge between mathematical modeling an
 
 ## Paradigms and Features
 
-- Functional Paradigm: Embraces OCaml's efficient compilation mechanisms.
-- Declarative Programming: Allows users to articulate computation logic without explicit control flow for enhanced readability and maintainability.
-- Strong, Static Typing and Scoping: Aims to eliminate runtime errors and accidental variable shadowing.
-- Strict Evaluation: Guarantees consistent performance outcomes.
-- Higher-Order Functions & Partial Application: Offers potent tools for abstracting and composing complex functions.
-- Mathematical API-Style Interface: Facilitates a user-friendly environment, mirroring mathematical conventions.
-- Caching Mechanism: Optimizes performance for variables that are accessed frequently.
-- Efficient Compilation Process: Leverages OCaml to translate high-level constructs, with a lexer and parser that transform tokens into machine code efficiently.
-- Embedded DSL for Graph Operations: Enables intuitive model visualization, comparable to GraphCL.
+- **Functional Paradigm**: Embraces OCaml's efficient compilation mechanisms.
+- **Declarative Programming**: Allows users to articulate computation logic without explicit control flow for enhanced readability and maintainability.
+- **Strong, Static Typing and Scoping**: Aims to eliminate runtime errors and accidental variable shadowing.
+- **Strict Evaluation**: Guarantees consistent performance outcomes.
+- **Higher-Order Functions & Partial Application**: Offers potent tools for abstracting and composing complex functions.
+- **Mathematical API-Style Interface**: Facilitates a user-friendly environment, mirroring mathematical conventions.
+- **Caching Mechanism**: Optimizes performance for variables that are accessed frequently.
+- **Efficient Compilation Process**: Leverages OCaml to translate high-level constructs, with a lexer and parser that transform tokens into machine code efficiently.
+- **Embedded DSL for Graph Operations**: Enables intuitive model visualization, comparable to GraphCL.
 
 ## "Hello World" Program
 
